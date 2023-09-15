@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{1029D66B-7CA3-4391-B8A0-986017FE8D71}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CDLV_KnowledgeCheck2/Program.cs">
+    <Files>
+      <File FileName="CDLV_KnowledgeCheck2/Program.cs" Line="8" Column="53" />
+      <File FileName="CDLV_KnowledgeCheck2/Animal.cs" />
+      <File FileName="CDLV_KnowledgeCheck2/Cat.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CDLV_KnowledgeCheck2" expanded="True">
+            <Node name="CDLV_KnowledgeCheck2" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.CDLV__KnowledgeCheck2 PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
