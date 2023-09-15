@@ -1,5 +1,6 @@
 ﻿
 using System;
+using System.Collections.Generic;
 using System.Xml.Linq;
 using CDLV_KnowledgeCheck2;
 
@@ -23,13 +24,16 @@ for (int i = 0; i < numberOfRecords; i++)
     cat.Weight = decimal.Parse(Console.ReadLine());
 
     Console.WriteLine("Please enter fur color: ");
-    cat.Name = Console.ReadLine();
+    cat.FurColor = Console.ReadLine();
 
 
     recordList.Add(cat);
 }
 
 // Print out the list of records using Console.WriteLine()
+foreach (Cat cat in recordList)
+{
+    Console.WriteLine($"Name: {cat.Name}, Age: {cat.Age}, Weight: {cat.Weight}, Fur Color: {cat.FurColor}");
+}
 
-recordList.ForEach(Console.WriteLine);
 

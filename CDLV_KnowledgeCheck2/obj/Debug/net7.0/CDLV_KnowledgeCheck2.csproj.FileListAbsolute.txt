@@ -1,0 +1,15 @@
+/Users/jacobsmith/Documents/CodeLouisville/KnowledgeCheck2/CDLV_KnowledgeCheck2/CDLV_KnowledgeCheck2/bin/Debug/net7.0/CDLV_KnowledgeCheck2
+/Users/jacobsmith/Documents/CodeLouisville/KnowledgeCheck2/CDLV_KnowledgeCheck2/CDLV_KnowledgeCheck2/bin/Debug/net7.0/CDLV_KnowledgeCheck2.deps.json
+/Users/jacobsmith/Documents/CodeLouisville/KnowledgeCheck2/CDLV_KnowledgeCheck2/CDLV_KnowledgeCheck2/bin/Debug/net7.0/CDLV_KnowledgeCheck2.runtimeconfig.json
+/Users/jacobsmith/Documents/CodeLouisville/KnowledgeCheck2/CDLV_KnowledgeCheck2/CDLV_KnowledgeCheck2/bin/Debug/net7.0/CDLV_KnowledgeCheck2.dll
+/Users/jacobsmith/Documents/CodeLouisville/KnowledgeCheck2/CDLV_KnowledgeCheck2/CDLV_KnowledgeCheck2/bin/Debug/net7.0/CDLV_KnowledgeCheck2.pdb
+/Users/jacobsmith/Documents/CodeLouisville/KnowledgeCheck2/CDLV_KnowledgeCheck2/CDLV_KnowledgeCheck2/obj/Debug/net7.0/CDLV_KnowledgeCheck2.csproj.AssemblyReference.cache
+/Users/jacobsmith/Documents/CodeLouisville/KnowledgeCheck2/CDLV_KnowledgeCheck2/CDLV_KnowledgeCheck2/obj/Debug/net7.0/CDLV_KnowledgeCheck2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jacobsmith/Documents/CodeLouisville/KnowledgeCheck2/CDLV_KnowledgeCheck2/CDLV_KnowledgeCheck2/obj/Debug/net7.0/CDLV_KnowledgeCheck2.AssemblyInfoInputs.cache
+/Users/jacobsmith/Documents/CodeLouisville/KnowledgeCheck2/CDLV_KnowledgeCheck2/CDLV_KnowledgeCheck2/obj/Debug/net7.0/CDLV_KnowledgeCheck2.AssemblyInfo.cs
+/Users/jacobsmith/Documents/CodeLouisville/KnowledgeCheck2/CDLV_KnowledgeCheck2/CDLV_KnowledgeCheck2/obj/Debug/net7.0/CDLV_KnowledgeCheck2.csproj.CoreCompileInputs.cache
+/Users/jacobsmith/Documents/CodeLouisville/KnowledgeCheck2/CDLV_KnowledgeCheck2/CDLV_KnowledgeCheck2/obj/Debug/net7.0/CDLV_KnowledgeCheck2.dll
+/Users/jacobsmith/Documents/CodeLouisville/KnowledgeCheck2/CDLV_KnowledgeCheck2/CDLV_KnowledgeCheck2/obj/Debug/net7.0/refint/CDLV_KnowledgeCheck2.dll
+/Users/jacobsmith/Documents/CodeLouisville/KnowledgeCheck2/CDLV_KnowledgeCheck2/CDLV_KnowledgeCheck2/obj/Debug/net7.0/CDLV_KnowledgeCheck2.pdb
+/Users/jacobsmith/Documents/CodeLouisville/KnowledgeCheck2/CDLV_KnowledgeCheck2/CDLV_KnowledgeCheck2/obj/Debug/net7.0/CDLV_KnowledgeCheck2.genruntimeconfig.cache
+/Users/jacobsmith/Documents/CodeLouisville/KnowledgeCheck2/CDLV_KnowledgeCheck2/CDLV_KnowledgeCheck2/obj/Debug/net7.0/ref/CDLV_KnowledgeCheck2.dll
